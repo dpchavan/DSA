@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  int array[] = {10, 4, 4, 23, 23, 32};
+  int array[] = {1, 4, 4, 23, 23, 32};
   int res = 1;
   size_t size = sizeof(array) / array[0];
   cout << size << endl;
